@@ -1,60 +1,60 @@
-# Modhej-Script Programming Language
-Hi there. this is Modhej-Script programming language. Modhej-Script is an interpreter written in Python.
-Modhej-Script scripts have cool and Modheji syntax.
+# زبان برنامه نویسی مدحج اسکیریپت
+سلام. این زبان برنامه نویسی مدحج اسکیریپت است. مدحج اسکیریپت مفسری است که در Python نوشته شده است.
+اسکریپتهای مدحج اسکیریپت دارای نحوی جالب و Modheji هستند.
 
-Modhej-Script is:
+ مدحج اسکیریپت به شرح زیر است:
 
-`Modhej-Script = (Python - SpaceSensitiveSyntax) + (Php.Syntax + Perl.Syntax) + MoreFlexibilityAndFeatures`
+`مدحج اسکیریپت = (Python - SpaceSensitiveSyntax) + (Php.Syntax + Perl.Syntax) + بیشتر انعطاف پذیری و ویژگی ها`
 
-### Modhej-Script features
-Why this programming language is useful? Because:
+### ویژگی های مدحج اسکیریپت
+چرا این زبان برنامه نویسی مفید است؟ زیرا:
 
-- Space insensitive and clean syntax
-- Much flexibility
-- Flexible and powerful function typed arguments
-- Safe Global variables
-- Python powered core
-- Python datatypes
-- Able to run Python code from string
-- Loading Python scripts as object
-- Python standard modules
-- Name defines
-- Class and OOP
-- Dynamic behavior for class methods for static and non-static usage
-- PIT render engine to render Modhej-Script code inside text formats
-- Builtin code mixer(compiler)
-- Builtin web development support
-- Namespace system
-- Section(label and goto) system
-- Handling Stdout using `out_*` functions
-- Shutdown event system
+- نحو فضای حساس و تمیز
+- انعطاف پذیری زیاد
+- استدلال تایپ شده عملکرد انعطاف پذیر و قدرتمند
+- متغیرهای ایمن جهانی
+- هسته مجهز به پایتون
+- انواع داده های پایتون
+- قادر به اجرای کد پایتون از رشته است
+- بارگذاری اسکریپت های پایتون به عنوان شی
+- ماژول های استاندارد پایتون
+- نام تعریف می کند
+- کلاس و OOP
+- رفتار پویا برای روشهای کلاس برای استفاده استاتیک و غیر استاتیک
+- موتور رندر PIT برای ارائه کد مدحج اسکیریپت در داخل قالب های متن
+- میکسر کد ساخته شده (کامپایلر)
+- پشتیبانی از توسعه وب Builtin
+- سیستم فضای نام
+- سیستم بخش (برچسب و رفتن)
+- مدیریت Stdout با استفاده از توابع "out_ *"
+- سیستم رویداد خاموش کردن
 
-### Modhej-Script problems
+### مشکلات مدحج اسکیریپت
 
-- Low speed
+- سرعت کم
 - ...
 
-### hello world!
-this is a simple hello world script in Modhej-Script:
+### سلام مدحج!
+این یک متن ساده سلام مدحجی در مدحج اسکیریپت است:
 
-```bash
-println('hello world')
-```
+"bash
+println ('سلام به مدحج')
+""
 
-## Online interpreter
-if you want to test Modhej-Script without installing and need to run it online, go to Modhej-Script online interpreter
+## مترجم آنلاین
+اگر می خواهید مدحج اسکیریپت را بدون نصب آزمایش کنید و نیاز به اجرای آنلاین آن دارید ، به مفسر آنلاین مدحج اسکیریپت بروید
 
-## Authors
-Modhej-Script is written by [Mohsen Modhej](https://github.com/mohsenmodhej)
+## نویسندگان
+مدحج اسکیریپت توسط [محسن مدحج] نوشته شده است (https://github.com/mohsenmodhej)
 
-## Contributing
-if you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md)
+## مشارکت
+اگر می خواهید در این پروژه مشارکت کنید ، [راهنمای مشارکت] را بخوانید (CONTRIBUTING.md)
 
-## Changelog
-to see Modhej-Script versions changelog, read [Changelog](CHANGELOG.md)
+## تغییرات
+برای دیدن تغییرات تغییرات نسخه های مدحج اسکیریپت ، [چنج لاگ] را بخوانید (CHANGELOG.md)
 
-## Security Policy
-if you detected an bug or vulnearability, read [Modhej-Script Security Policy](/SECURITY.md).
+## خط مشی امنیتی
+اگر یک اشکال یا آسیب پذیری را مشاهده کردید ، [سیاست امنیتی مدحج اسکیریپت] (/ SECURITY.md) را بخوانید.
 
-## Documentation
-read the Documentation to learn Modhej-Script in [`doc folder`](/doc).
+## مستندات
+مستندات را بخوانید تا مدحج اسکیریپت را در ["داک فوالدر"] (/ doc) یاد بگیرید.
