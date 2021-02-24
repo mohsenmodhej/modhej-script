@@ -1,16 +1,12 @@
-<img src="/logo.svg" />
+# Modhej-Script Programming Language
+Hi there. this is Modhej-Script programming language. Modhej-Script is an interpreter written in Python.
+Modhej-Script scripts have cool and Modheji syntax.
 
-###### Logo by [sami](https://github.com/sami2020pro)
+Modhej-Script is:
 
-# Pashmak Programming Language
-Hi there. this is Pashmak programming language. Pashmak is an interpreter written in Python.
-Pashmak scripts have cool and pashmaki syntax.
+`Modhej-Script = (Python - SpaceSensitiveSyntax) + (Php.Syntax + Perl.Syntax) + MoreFlexibilityAndFeatures`
 
-Pashmak is:
-
-`Pashmak = (Python - SpaceSensitiveSyntax) + (Php.Syntax + Perl.Syntax) + MoreFlexibilityAndFeatures`
-
-### Pashmak features
+### Modhej-Script features
 Why this programming language is useful? Because:
 
 - Space insensitive and clean syntax
@@ -25,7 +21,7 @@ Why this programming language is useful? Because:
 - Name defines
 - Class and OOP
 - Dynamic behavior for class methods for static and non-static usage
-- PIT render engine to render pashmak code inside text formats
+- PIT render engine to render Modhej-Script code inside text formats
 - Builtin code mixer(compiler)
 - Builtin web development support
 - Namespace system
@@ -33,32 +29,32 @@ Why this programming language is useful? Because:
 - Handling Stdout using `out_*` functions
 - Shutdown event system
 
-### Pashmak problems
+### Modhej-Script problems
 
 - Low speed
 - ...
 
 ### hello world!
-this is a simple hello world script in pashmak:
+this is a simple hello world script in Modhej-Script:
 
 ```bash
 println('hello world')
 ```
 
 ## Online interpreter
-if you want to test pashmak without installing and need to run it online, go to [Pashmak online interpreter](https://pashmak-parsampsh.fandogh.cloud/)
+if you want to test Modhej-Script without installing and need to run it online, go to Modhej-Script online interpreter
 
 ## Authors
-pashmak is written by [parsampsh](https://github.com/parsampsh) and [contributors](https://github.com/pashmaklang/pashmak/graphs/contributors)
+Modhej-Script is written by [Mohsen Modhej](https://github.com/mohsenmodhej)
 
 ## Contributing
 if you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md)
 
 ## Changelog
-to see pashmak versions changelog, read [Changelog](CHANGELOG.md)
+to see Modhej-Script versions changelog, read [Changelog](CHANGELOG.md)
 
 ## Security Policy
-if you detected an bug or vulnearability, read [Pashmak Security Policy](/SECURITY.md).
+if you detected an bug or vulnearability, read [Modhej-Script Security Policy](/SECURITY.md).
 
 ## Documentation
-read the Documentation to learn pashmak in [`doc folder`](/doc).
+read the Documentation to learn Modhej-Script in [`doc folder`](/doc).
